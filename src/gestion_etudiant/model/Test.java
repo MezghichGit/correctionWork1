@@ -28,6 +28,7 @@ public class Test {
 		
 		System.out.println("Vous avez taper : "+nom + " Age = "+age+ "Moyenne = "+moy+" Adresse = "+adress);
 		System.out.println("Update Achref Le 15/03/2022");
+		System.out.println("Update ALA Le 15/03/2022");
 	}
 
 }
