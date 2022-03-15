@@ -27,6 +27,7 @@ public class Test {
 		String adress = sc.nextLine();
 		
 		System.out.println("Vous avez taper : "+nom + " Age = "+age+ "Moyenne = "+moy+" Adresse = "+adress);
+		System.out.println("Update Achref Le 15/03/2022");
 	}
 
 }
